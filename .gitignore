@@ -1,0 +1,4 @@
+.env
+__pycache__/
+*.pyc
+classifications_output.csv
